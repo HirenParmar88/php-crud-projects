@@ -1,0 +1,7 @@
+<?php
+	$month=8;
+	$day=15;
+	$year=2027;
+	
+	var_dump(checkdate($month,$day,$year));
+?>

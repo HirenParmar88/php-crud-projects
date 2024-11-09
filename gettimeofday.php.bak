@@ -1,0 +1,5 @@
+<?php
+	$time=gettimeofday();
+	print_r($time);
+	var_dump($time)
+?>

@@ -1,0 +1,12 @@
+<?php
+
+	//declare array
+	$colors=["red","green","blue"];
+	
+	//access array elements using for loop
+	foreach($colors as $value)
+	{
+		echo $value;
+		echo "<br>";
+	}
+?>

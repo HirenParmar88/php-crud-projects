@@ -1,0 +1,8 @@
+<?php
+	$ages["Jay"]="25";
+	$ages["Hiren"]="32";
+	$ages["Amaan"]="54";
+	
+	echo $ages."<br>";
+	var_dump($ages);
+?>
